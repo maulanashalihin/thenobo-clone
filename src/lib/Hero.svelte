@@ -4,14 +4,14 @@
     </div>
     <div class="flex justify-center items-center">
         <div class="text-center">
-            <div class="text-7xl font-thin py-4">
+            <div class="text-6xl tracking-[0.20em] font-thin py-4">
                 PRADA
             </div>
-            <div class="tracking-wider text-2xl  font-thin">
+            <div class="tracking-wider text-2xl px-5 font-thin">
                 NAVY & WHITE PERFORATED LEATHER PLATFORM SHOES
             </div>
-         <div class="mt-6">
-            <a href="/" class="border-2 tracking-widest border-black px-4 font-medium py-2 ">
+         <div class="mt-10">
+            <a href="/" class="border-2 tracking-[0.2em] border-black px-4 font-medium py-2 ">
                 VIEW DETAILS
             </a>
          </div>
