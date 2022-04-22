@@ -10,7 +10,7 @@ import LatestInTrades from './lib/LatestInTrades.svelte';
 import TradeStories from './lib/TradeStories.svelte';
 import Footer from './lib/Footer.svelte';
 </script>
-<div class="max-width-6xl">
+<div class="max-width-7xl">
   <Header></Header>
   <LogoAndCategory></LogoAndCategory>
   <Featured></Featured>
