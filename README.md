@@ -1,6 +1,6 @@
 # Svelte + Vite + TailwindCSS
 
-Recreating TheNobo Page (https://thenobo.com/men/explore)
+Recreating TheNobo Page (https://thenobo.com/men/explore) from the scratch
 
 with Tailwind CSS
 
