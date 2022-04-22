@@ -1,4 +1,4 @@
-# Svelte + Vite
+# Svelte + Vite + TailwindCSS
 
 Recreating TheNobo Page (https://thenobo.com/men/explore)
 
